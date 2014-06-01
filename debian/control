@@ -14,6 +14,6 @@ Standards-Version: 3.9.4
 
 Package: anon-mixmaster
 Architecture: all
-Depends: ${misc:Depends}
+Depends: sudo, ${misc:Depends}
 Description: Mixmaster over Tor for Anonymity Distribution Workstations
  Mixmaster config file for user "user" in /home/user/.Mix/mix.cfg.
