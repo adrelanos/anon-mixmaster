@@ -16,4 +16,8 @@ Package: anon-mixmaster
 Architecture: all
 Depends: sudo, ${misc:Depends}
 Description: Mixmaster over Tor for Anonymity Distribution Workstations
+ Allows tunneling mixmaster though Tor.
+ .
+ Allows running mixmaster-update without sudo for better usability.
+ .
  Mixmaster config file for user "user" in /home/user/.Mix/mix.cfg.
