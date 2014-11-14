@@ -3,4 +3,4 @@
 ## See the file COPYING for copying conditions.
 
 ## For convenience.
-ALL ALL=NOPASSWD: /usr/bin/mixmaster-update
+user ALL=NOPASSWD: /usr/bin/mixmaster-update
