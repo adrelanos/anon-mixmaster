@@ -20,4 +20,4 @@ Description: Mixmaster over Tor for Anonymity Distribution Workstations
  .
  Allows running mixmaster-update without sudo for better usability.
  .
- Mixmaster config file for user "user" in /home/user/.Mix/mix.cfg.
+ Ships Mixmaster config file /etc/skel/.Mix/mix.cfg.
