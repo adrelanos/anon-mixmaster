@@ -1,3 +1,17 @@
+commit 29105ddaecd1280ca706a7dfd7a19a53acf3ccdf
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Dec 3 22:11:48 2015 +0000
+
+    no longer write to home folder directly; use /etc/skel;
+    
+    https://phabricator.whonix.org/T419
+
+commit 7c3ad627ebd590fc6e63be633fb255cf805166f2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Aug 25 14:07:39 2015 +0000
+
+    bumped changelog version
+
 commit 6b07e5cc2a2f116c50a33081ede1fe0e46b0d478
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Jun 3 14:59:04 2015 +0000
