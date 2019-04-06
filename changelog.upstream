@@ -1,3 +1,27 @@
+commit 18f6ddc4c9236deea07adc6f77582a219bd747f7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 09:29:17 2019 -0400
+
+    fix lintian warning
+
+commit 7a6c1da526455a180de6be68d577a761713ff611
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 05:50:32 2019 -0400
+
+    port to debian buster
+
+commit 1c5209dc0a2618652b8fec6ecd4273c415da2803
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 3 18:04:47 2019 -0400
+
+    readme
+
+commit aa6984691e51d43e12acf0258777abe9b2bf6dcf
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Mar 29 09:43:16 2019 +0000
+
+    bumped changelog version
+
 commit e9d01160b88c93cce981859338d5fddf162e6e27
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Mar 29 09:02:44 2019 +0000
