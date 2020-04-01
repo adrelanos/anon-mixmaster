@@ -5,7 +5,7 @@ Source: anon-mixmaster
 Section: misc
 Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@riseup.net>
-Build-Depends: debhelper (>= 12), genmkfile
+Build-Depends: debhelper (>= 12)
 Homepage: https://github.com/Whonix/anon-mixmaster
 Vcs-Browser: https://github.com/Whonix/anon-mixmaster
 Vcs-Git: https://github.com/Whonix/anon-mixmaster.git
